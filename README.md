@@ -58,7 +58,7 @@
 - **Easy styles setup**
 - **Easy fonts setup**
 - **Easy images setup**
-- **Easy JS and HTML setup 
+- **Easy JS and HTML setup** 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
